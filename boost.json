@@ -1,0 +1,12 @@
+{
+    "agents": [
+        "gemini"
+    ],
+    "skills": [
+        "laravel-best-practices",
+        "socialite-development",
+        "livewire-development",
+        "pest-testing",
+        "tailwindcss-development"
+    ]
+}
